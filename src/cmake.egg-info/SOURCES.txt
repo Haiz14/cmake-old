@@ -1,0 +1,8 @@
+pyproject.toml
+setup.cfg
+src/__init__.py
+src/_version.py
+src/cmake.egg-info/PKG-INFO
+src/cmake.egg-info/SOURCES.txt
+src/cmake.egg-info/dependency_links.txt
+src/cmake.egg-info/top_level.txt
